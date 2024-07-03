@@ -1,0 +1,4 @@
+Curso de Java|img/java.jpg|Aprende los fundamentos de Java.|Juan Pérez
+Curso de Python|img/python.jpg|Introducción a la programación con Python.|María Gómez
+Curso de HTML y CSS|img/html_css.jpg|Diseña páginas web con HTML y CSS.|Carlos Ruiz
+Curso de JavaScript|img/javascript.jpg|Domina el lenguaje de la web: JavaScript.|Ana Fernández
